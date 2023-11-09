@@ -7,4 +7,4 @@ Took me about 2 hours to write these automation tests
 - Checking Shopping Links
 
 ## Waits
-There are more waits in the tests then I like, but these were due to all the animations of the elements that take place in conjunction with elements not having unique ids.
+There are more waits in the tests then I like, but these were due to all the animations of the elements that take place in conjunction with elements not having unique ids. I would want to work with dev to get some unique ids that would help speed up the tests.
